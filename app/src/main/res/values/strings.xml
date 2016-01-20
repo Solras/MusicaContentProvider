@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZContentMusica</string>
+
+    <string name="menuPrincipal_mostrarMusica">Musica</string>
+    <string name="menuPrincipal_mostrarDiscos">Discos</string>
+    <string name="menuPrincipal_mostrarAudiodb">Musica-BD</string>
+    <string name="menuPrincipal_mostrarSincronizar">Sincronizar-BD</string>
+    <string name="menuPrincipal_mostrarArtistas">Artistas</string>
+</resources>
